@@ -1,3 +1,7 @@
+## Aluno: Gabriel Rona Guzzatti
+
+## Professor Orientador: Ramon Venson
+
 ## Projeto Exercícios
 Este é um projeto Java simples que permite ao usuário escolher e executar diferentes exercícios de um conjunto predefinido. O projeto foi estruturado para facilitar a execução de exercícios numerados.
 
