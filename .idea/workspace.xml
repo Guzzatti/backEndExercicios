@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bd15d36-7177-44e6-8fba-b5e522637a7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicio00/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio00/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio00/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio00/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio00/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio00/src/main/java/org/example/exercicios/Exercicio00.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio01/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio01/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio01/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio01/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio01/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio01/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio01/src/main/java/org/example/exercicios/Exercicio01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio00/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio00/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio00/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio00/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio00/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exercicios/Exercicio00.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exercicios/Exercicio01.java" beforeDir="false" />
-    </list>
+    <list default="true" id="7bd15d36-7177-44e6-8fba-b5e522637a7d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,33 +13,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Guzzatti"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Guzzatti&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Guzzatti/backEndExercicios.git",
-    "accountId": "d585dcb0-33b4-48fb-8ead-8bea126f920a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Guzzatti/backEndExercicios.git&quot;,
+    &quot;accountId&quot;: &quot;d585dcb0-33b4-48fb-8ead-8bea126f920a&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2kwZnLXBQGTDksLIucyEbPuB8Da" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/exercício 00" />
