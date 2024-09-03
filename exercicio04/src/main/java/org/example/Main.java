@@ -22,7 +22,6 @@ public class Main {
             musicCloud.adicionarMusica(new Musica(titulo, artista));
         }
 
-        // Criando uma nova playlist
         System.out.print("Digite o nome da playlist: ");
         String nomePlaylist = scanner.nextLine();
         Playlist playlist = new Playlist(nomePlaylist);
@@ -46,7 +45,6 @@ public class Main {
             }
         }
 
-        // Imprimindo a playlist final
         playlist.imprimirPlaylist();
         scanner.close();
     }
