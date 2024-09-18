@@ -1,4 +1,4 @@
-package com.example.tabela_fipe;
+package com.example.tabelafipe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
