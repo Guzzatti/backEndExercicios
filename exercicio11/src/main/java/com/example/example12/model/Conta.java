@@ -1,4 +1,4 @@
-package com.example.example11.model;
+package com.example.example12.model;
 
 public class Conta {
     private String codigo;

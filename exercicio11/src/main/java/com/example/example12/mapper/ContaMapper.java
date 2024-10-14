@@ -1,7 +1,7 @@
-package com.example.example11.mapper;
+package com.example.example12.mapper;
 
-import com.example.example11.dto.ContaDTO;
-import com.example.example11.model.Conta;
+import com.example.example12.dto.ContaDTO;
+import com.example.example12.model.Conta;
 
 public class ContaMapper {
 

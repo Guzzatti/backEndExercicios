@@ -1,4 +1,4 @@
-package com.example.example11.dto;
+package com.example.example12.dto;
 
 public record ContaDTO(String codigo, String cliente) {
 }
